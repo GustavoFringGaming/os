@@ -1,3 +1,7 @@
+# Archived!
+
+I'm working on this project with Marijn now, you can find our work [here](https://github.com/OR0-Project/OS)
+
 # OS Project
 
 Readme stuff.
